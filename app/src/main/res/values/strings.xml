@@ -4,4 +4,25 @@
     <string name="option2">Find guide</string>
     <string name="option3">I want to work</string>
     <string name="option4">BD Buddy</string>
+    <string name="option5">Emergecy Info</string>
+    <string name="option6">Time and Date</string>
+    <string name="option7">Spectacular Places</string>
+
+
+    <array name="division">
+
+        <item>Select Division</item>
+
+        <item>Barisal</item>
+        <item>Dhaka</item>
+        <item>Rajshahi</item>
+        <item>Khulna</item>
+        <item>Chittagong</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+        <item>Mymensing</item>
+
+
+    </array>
+
 </resources>

@@ -11,7 +11,7 @@
     android:weightSum="11"
 
 
->
+    >
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -37,11 +37,11 @@
     </LinearLayout>
 
     <ScrollView
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:fillViewport="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
 
-    >
+        >
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -154,6 +154,6 @@
 
 
         </LinearLayout>
-</ScrollView>
+    </ScrollView>
 
 </LinearLayout>
